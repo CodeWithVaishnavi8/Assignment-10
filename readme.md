@@ -8,9 +8,8 @@ Places to visit:
 - Shanivar Vada
 - Sinhgad Fort
 - Aga Khan
+  
 Temples:
 1. Dagadusheth
 2. ISKON temple
    
-! [about pune](C:\Users\VAISHNAVI\Downloads\pune.jpeg)
-  

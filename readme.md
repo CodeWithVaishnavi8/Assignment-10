@@ -12,5 +12,5 @@ Temples:
 1. Dagadusheth
 2. ISKON temple
    
-! [about pune]("C:\Users\VAISHNAVI\Downloads\pune.jpeg")
+! [about pune](C:\Users\VAISHNAVI\Downloads\pune.jpeg)
   
